@@ -1,4 +1,4 @@
-# Desarrollo Detallado del Temario sobre Resolución de Problemas
+# Resolución de Problemas
 
 - **Introducción a la Resolución de Problemas**
    - **Importancia de Resolver Problemas:**
@@ -65,3 +65,4 @@
      - **Diseño de planes de acción:** Pasos para desarrollar un plan de implementación efectivo que asegure la correcta ejecución de la solución.
    - **Evaluación de Resultados:**
      - **Métodos de medición:** Discusión sobre cómo establecer y aplicar métodos de medición para evaluar el éxito de las soluciones implementadas y realizar los ajustes necesarios.
+     - 
